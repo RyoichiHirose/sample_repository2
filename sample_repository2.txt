@@ -1,1 +1,1 @@
-sample_repository.txt
+sample_repository.txt was amended
