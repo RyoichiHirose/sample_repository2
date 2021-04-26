@@ -1,1 +1,2 @@
 test.txt was created
+連続したコミット1回目
